@@ -1,54 +1,54 @@
-## 📦 LogiTech\_WEG – Solução Inteligente para Logística Interna
+# 📦 LogiTech\_WEG – Smart Solution for Internal Logistics
 
-**LogiTech\_WEG** é uma aplicação web desenvolvida com **Next.js**, inspirada nas práticas apresentadas no vídeo do canal Sujeito Programador. O objetivo do projeto é otimizar a recepção e o direcionamento de ações de transporte interno de cargas na WEG, proporcionando maior agilidade e redução de custos operacionais no setor de logística.
+**LogiTech\_WEG** is a web application built with **Next.js**, designed to optimize internal cargo transportation at WEG. The tool aims to streamline logistics processes, reduce operational costs, and provide greater control and efficiency in internal operations.
 
-### 🚀 Tecnologias Utilizadas
+---
 
-* **Next.js** – Framework React para aplicações web com renderização híbrida (SSR e SSG)
-* **React** – Biblioteca JavaScript para construção de interfaces de usuário
-* **Tailwind CSS** – Framework utilitário para estilização rápida e responsiva
-* **TypeScript** – Superset do JavaScript que adiciona tipagem estática
-* **API REST** – Integração com serviços para gerenciamento de dados logísticos([WEG][1], [GitHub][2], [GitHub][3])
+## 🚀 Technologies Used
 
-### 🎯 Funcionalidades
+* **Next.js** – React framework for modern web applications with SSR and SSG support
+* **React** – JavaScript library for building dynamic user interfaces
+* **Tailwind CSS** – Utility-first CSS framework for fast and responsive styling
+* **TypeScript** – A statically typed superset of JavaScript
+* **REST API** – Backend communication for data management
 
-* Cadastro e gerenciamento de solicitações de transporte interno
-* Visualização em tempo real do status das cargas
-* Roteirização inteligente para otimização de trajetos
-* Dashboard analítico para acompanhamento de métricas de desempenho([Fretefy][4])
+---
 
-### 🛠️ Como Executar o Projeto
+## 🎯 Features
 
-1. Clone o repositório:
+* Register and manage internal transportation requests
+* Real-time cargo status tracking
+* Smart route optimization for internal logistics
+* Dashboard with performance metrics and key indicators
+
+---
+
+## 🛠️ How to Run the Project
+
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/petersonchiquetto/LogiTech_WEG.git
    ```
 
-
-
-2. Navegue até o diretório do projeto:
+2. Navigate to the project directory:
 
    ```bash
    cd LogiTech_WEG
    ```
 
-([GitHub][2])
-
-3. Instale as dependências:
+3. Install the dependencies:
 
    ```bash
    npm install
    ```
 
-([GitHub][3])
-
-4. Inicie o servidor de desenvolvimento:
+4. Start the development server:
 
    ```bash
    npm run dev
    ```
 
+5. Open your browser and go to `http://localhost:3000`
 
-
-5. Acesse a aplicação em `http://localhost:3000`
+---
